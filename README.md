@@ -11,10 +11,10 @@
 
 ## Mandatory Information
 
-- **Student Name**: [Your Name]
-- **Student Number**: [Student Number]
-- **Slack Handle**: [Your Slack Handle] (optional)
-- **GCP Project ID**: [GCP Project ID]
+- **Student Name**: [B.K.Harsha Nimeda Sirithunga]
+- **Student Number**: [2301691058]
+- **Slack Handle**: [@Harsha Nimeda]
+- **GCP Project ID**: [indigo-splice-491917-q2]
 
 ## Project Description
 
